@@ -1,0 +1,5 @@
+ramo_id,ramo,nombre_largo,tasa_base,deducible_base,coaseguro_pct,tope_coaseguro,requiere_medico,reasegurado,activo
+R01,GMM,Gastos Medicos Mayores,0.022,5000,0.1,50000,True,True,True
+R02,Autos,Automoviles,0.035,3000,0.0,0,False,False,True
+R03,Vida,Vida Individual,0.018,0,0.0,0,True,True,True
+R04,Accidentes Personales,Accidentes Personales,0.012,1000,0.1,20000,False,False,True

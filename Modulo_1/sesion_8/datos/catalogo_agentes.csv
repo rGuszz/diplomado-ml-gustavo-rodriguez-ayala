@@ -1,0 +1,81 @@
+agente_id,nombre,tipo,region,clave_amis,fecha_alta,activo,comision_pct,cartera_polizas,meta_anual
+AG001,Jorge Chavez,Independiente,Jalisco,AMIS-86105,2010-01-01,True,0.0679,127,1000000
+AG002,Norma Navarro,Independiente,Guanajuato,AMIS-81642,2010-03-11,True,0.0792,538,3000000
+AG003,Daniel Sanchez,Promotor,Queretaro,AMIS-20887,2010-05-19,True,0.0866,639,500000
+AG004,Patricia Rios,Independiente,Veracruz,AMIS-89971,2010-07-28,True,0.138,85,3000000
+AG005,Claudia Salazar,Independiente,Estado de Mexico,AMIS-36056,2010-10-05,False,0.0772,393,3000000
+AG006,Jose Medina,Promotor,Yucatan,AMIS-42484,2010-12-13,False,0.1432,420,2000000
+AG007,Gloria Soto,Independiente,Baja California,AMIS-25835,2011-02-21,False,0.1165,667,1000000
+AG008,Sandra Reyes,Promotor,Guanajuato,AMIS-91405,2011-05-01,True,0.1497,779,3000000
+AG009,Sofia Perez,Empresa,Puebla,AMIS-15853,2011-07-09,True,0.1495,423,500000
+AG010,Jorge Vargas,Empresa,Coahuila,AMIS-81624,2011-09-17,True,0.1,694,1000000
+AG011,Luz Sanchez,Independiente,Veracruz,AMIS-45197,2011-11-25,True,0.1478,753,1000000
+AG012,Sandra Garcia,Independiente,Chihuahua,AMIS-97618,2012-02-02,False,0.1151,401,3000000
+AG013,Luz Medina,Independiente,Michoacan,AMIS-93284,2012-04-12,True,0.0971,156,3000000
+AG014,Juan Chavez,Promotor,CDMX,AMIS-56825,2012-06-20,True,0.0949,284,500000
+AG015,Diego Castillo,Independiente,Michoacan,AMIS-30284,2012-08-28,True,0.1338,510,2000000
+AG016,Gabriela Nunez,Independiente,CDMX,AMIS-10672,2012-11-06,False,0.064,337,3000000
+AG017,Diana Molina,Empresa,Sonora,AMIS-51083,2013-01-14,True,0.1331,482,1000000
+AG018,Oscar Navarro,Independiente,CDMX,AMIS-97108,2013-03-24,True,0.1002,394,1000000
+AG019,Silvia Hernandez,Empresa,Veracruz,AMIS-86423,2013-06-02,True,0.0774,751,2000000
+AG020,Rocio Ruiz,Promotor,Coahuila,AMIS-85272,2013-08-10,True,0.0632,689,3000000
+AG021,Pedro Rios,Independiente,Michoacan,AMIS-74485,2013-10-18,True,0.1412,574,1000000
+AG022,Beatriz Vargas,Independiente,Guanajuato,AMIS-27676,2013-12-27,True,0.1269,778,2000000
+AG023,Monica Silva,Independiente,Coahuila,AMIS-81539,2014-03-06,False,0.1095,319,3000000
+AG024,Luis Salazar,Empresa,CDMX,AMIS-39219,2014-05-14,True,0.069,760,2000000
+AG025,Eduardo Martinez,Independiente,Tamaulipas,AMIS-71994,2014-07-23,False,0.0697,644,3000000
+AG026,Esperanza Jimenez,Promotor,Nuevo Leon,AMIS-87061,2014-09-30,True,0.1129,90,1000000
+AG027,Arturo Silva,Independiente,Estado de Mexico,AMIS-27198,2014-12-08,True,0.0669,405,3000000
+AG028,Hector Perez,Independiente,Coahuila,AMIS-88398,2015-02-16,True,0.1393,687,1000000
+AG029,Manuel Soto,Independiente,Veracruz,AMIS-76154,2015-04-26,False,0.1171,719,500000
+AG030,Jose Medina,Empresa,Sonora,AMIS-48100,2015-07-04,False,0.1406,650,1000000
+AG031,Jorge Romero,Promotor,Chihuahua,AMIS-21066,2015-09-12,True,0.1172,405,500000
+AG032,Norma Medina,Empresa,Yucatan,AMIS-64759,2015-11-20,False,0.0645,520,2000000
+AG033,Manuel Dominguez,Empresa,CDMX,AMIS-97628,2016-01-28,True,0.136,95,500000
+AG034,Gabriela Moreno,Independiente,CDMX,AMIS-30987,2016-04-07,True,0.1113,62,2000000
+AG035,Lorena Ramos,Independiente,Estado de Mexico,AMIS-27740,2016-06-15,False,0.0925,61,500000
+AG036,Norma Dominguez,Empresa,Jalisco,AMIS-86812,2016-08-23,False,0.0607,449,500000
+AG037,Enrique Martinez,Empresa,Michoacan,AMIS-50108,2016-11-01,True,0.1211,609,2000000
+AG038,Lorena Morales,Independiente,Chihuahua,AMIS-76545,2017-01-09,False,0.1465,266,1000000
+AG039,Fernando Torres,Independiente,Jalisco,AMIS-64006,2017-03-19,False,0.1421,208,1000000
+AG040,Luz Rodriguez,Independiente,Tamaulipas,AMIS-61171,2017-05-28,True,0.0894,432,2000000
+AG041,Pablo Dominguez,Promotor,Baja California,AMIS-29468,2017-08-05,True,0.139,667,3000000
+AG042,Irene Sanchez,Independiente,Queretaro,AMIS-78161,2017-10-14,True,0.1117,757,2000000
+AG043,Pablo Romero,Independiente,Yucatan,AMIS-35781,2017-12-22,True,0.0986,506,1000000
+AG044,Leticia Flores,Independiente,Puebla,AMIS-59283,2018-03-01,True,0.1363,498,2000000
+AG045,Leticia Morales,Independiente,Tamaulipas,AMIS-11852,2018-05-10,True,0.0688,88,3000000
+AG046,Esperanza Ramirez,Independiente,Guanajuato,AMIS-23911,2018-07-18,False,0.1255,788,500000
+AG047,Silvia Silva,Empresa,Queretaro,AMIS-61032,2018-09-25,False,0.0847,758,3000000
+AG048,Juan Ramos,Empresa,Puebla,AMIS-19625,2018-12-04,True,0.1244,770,1000000
+AG049,Pablo Vega,Promotor,Queretaro,AMIS-16733,2019-02-11,True,0.0703,596,3000000
+AG050,Gabriela Rios,Independiente,Nuevo Leon,AMIS-55484,2019-04-21,True,0.1045,775,500000
+AG051,Manuel Mendoza,Independiente,Chihuahua,AMIS-94708,2019-06-30,True,0.0905,114,3000000
+AG052,Jose Navarro,Promotor,Jalisco,AMIS-56321,2019-09-07,True,0.1253,166,500000
+AG053,Martha Ramos,Independiente,Estado de Mexico,AMIS-13380,2019-11-15,True,0.0625,494,1000000
+AG054,Enrique Castillo,Independiente,Chihuahua,AMIS-13353,2020-01-24,True,0.0871,190,2000000
+AG055,Hector Diaz,Independiente,Yucatan,AMIS-76897,2020-04-02,True,0.1147,697,2000000
+AG056,Monica Ortiz,Empresa,Tamaulipas,AMIS-72393,2020-06-10,True,0.1447,199,500000
+AG057,Sofia Lopez,Promotor,CDMX,AMIS-52960,2020-08-19,True,0.1208,240,1000000
+AG058,Luis Silva,Independiente,Coahuila,AMIS-99495,2020-10-27,True,0.0989,732,500000
+AG059,Enrique Dominguez,Independiente,Sonora,AMIS-49802,2021-01-04,True,0.1124,559,500000
+AG060,Victor Jimenez,Empresa,Queretaro,AMIS-69000,2021-03-15,False,0.1457,62,3000000
+AG061,Ana Gutierrez,Empresa,Queretaro,AMIS-52735,2021-05-23,False,0.0705,451,1000000
+AG062,Martha Medina,Empresa,Queretaro,AMIS-25908,2021-07-31,True,0.0881,471,2000000
+AG063,Raul Navarro,Empresa,Puebla,AMIS-75217,2021-10-09,True,0.1093,566,2000000
+AG064,Fernando Medina,Independiente,Baja California,AMIS-71155,2021-12-17,False,0.0936,553,3000000
+AG065,Enrique Romero,Promotor,Baja California,AMIS-84923,2022-02-24,True,0.1475,281,3000000
+AG066,Jose Lopez,Empresa,Jalisco,AMIS-91081,2022-05-05,False,0.1288,315,1000000
+AG067,Mario Vargas,Independiente,Jalisco,AMIS-32378,2022-07-13,True,0.0931,414,500000
+AG068,Valeria Silva,Promotor,Sonora,AMIS-30170,2022-09-20,False,0.1117,772,500000
+AG069,Enrique Sanchez,Independiente,Coahuila,AMIS-87497,2022-11-29,True,0.121,743,2000000
+AG070,Sandra Navarro,Independiente,Tamaulipas,AMIS-78106,2023-02-06,True,0.1106,326,1000000
+AG071,Gabriela Aguilar,Empresa,Estado de Mexico,AMIS-37130,2023-04-16,True,0.1208,57,2000000
+AG072,Carlos Romero,Independiente,Puebla,AMIS-66833,2023-06-25,True,0.0802,82,3000000
+AG073,Mario Ramos,Empresa,Baja California,AMIS-91702,2023-09-02,True,0.1189,413,3000000
+AG074,Carmen Ortiz,Independiente,Estado de Mexico,AMIS-54095,2023-11-10,False,0.1434,279,3000000
+AG075,Victor Jimenez,Independiente,Yucatan,AMIS-70138,2024-01-19,True,0.1055,550,2000000
+AG076,Elena Diaz,Empresa,Estado de Mexico,AMIS-88409,2024-03-28,True,0.0771,653,1000000
+AG077,Oscar Moreno,Independiente,Chihuahua,AMIS-40582,2024-06-05,True,0.0717,279,3000000
+AG078,Luis Aguilar,Independiente,Veracruz,AMIS-98932,2024-08-14,True,0.127,589,3000000
+AG079,Sofia Perez,Promotor,Sonora,AMIS-19110,2024-10-22,False,0.1055,435,500000
+AG080,Sofia Aguilar,Empresa,Tamaulipas,AMIS-81742,2024-12-31,False,0.1215,351,3000000

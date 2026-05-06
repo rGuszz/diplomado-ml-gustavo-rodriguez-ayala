@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-05-02T07:00:00",
+  "origen": "Sistema_Reaseguro_v3.1",
+  "polizas_reaseguradas": [
+    {
+      "id_poliza": "POL-000001",
+      "ramo": "GMM",
+      "reasegurador": {
+        "nombre": "Munich Re",
+        "participacion": 0.4,
+        "prima": 960.0
+      },
+      "limites": {
+        "maximo": 2000000,
+        "retencion": 500000
+      }
+    },
+    {
+      "id_poliza": "POL-000002",
+      "ramo": "Vida",
+      "reasegurador": {
+        "nombre": "Swiss Re",
+        "participacion": 0.35,
+        "prima": 1820.0
+      },
+      "limites": {
+        "maximo": 5000000,
+        "retencion": 1000000
+      }
+    },
+    {
+      "id_poliza": "POL-000005",
+      "ramo": "GMM",
+      "reasegurador": {
+        "nombre": "Munich Re",
+        "participacion": 0.4,
+        "prima": 550.0
+      },
+      "limites": {
+        "maximo": 2000000,
+        "retencion": 500000
+      }
+    }
+  ]
+}

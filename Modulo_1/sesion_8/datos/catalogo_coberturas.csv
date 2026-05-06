@@ -1,0 +1,13 @@
+cobertura_id,nombre,ramo,suma_minima,suma_maxima,obligatoria
+COB01,Hospitalizacion,GMM,100000,5000000,True
+COB02,Cirugia,GMM,100000,5000000,True
+COB03,Urgencias,GMM,50000,500000,True
+COB04,Maternidad,GMM,100000,500000,False
+COB05,Dental,GMM,20000,100000,False
+COB06,Vision,GMM,10000,50000,False
+COB07,Medicamentos,GMM,50000,500000,False
+COB08,Rehabilitacion,GMM,30000,200000,False
+COB09,Muerte Accidental,Vida,200000,5000000,True
+COB10,Invalidez Total,Vida,100000,3000000,False
+COB11,Responsabilidad Civil,Autos,300000,3000000,True
+COB12,Robo,Autos,200000,1000000,False

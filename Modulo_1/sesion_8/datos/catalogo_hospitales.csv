@@ -1,0 +1,61 @@
+hospital_id,nombre,tipo,estado,nivel,convenio,descuento_pct,telefono,activo
+HSP001,IMSS CDMX,Privado General,Coahuila,I,True,0.05,5557824180,False
+HSP002,Centro Medico Nacional Nuevo Leon,Privado General,Guanajuato,I,True,0.05,5517735063,True
+HSP003,Hospital Angeles CDMX,IMSS,Queretaro,I,True,0.0,5568618432,True
+HSP004,ISSSTE Puebla,Privado de Alta Especialidad,Queretaro,I,True,0.1,5513176036,True
+HSP005,ISSSTE CDMX,Privado de Alta Especialidad,Nuevo Leon,I,False,0.15,5547773020,True
+HSP006,Hospital ABC Puebla,Privado General,Estado de Mexico,II,True,0.0,5554365408,False
+HSP007,Hospital San Jose Nuevo Leon,ISSSTE,Sonora,I,True,0.0,5548863507,True
+HSP008,Hospital ABC Nuevo Leon,IMSS,Michoacan,I,True,0.05,5526416872,True
+HSP009,IMSS Queretaro,Privado de Alta Especialidad,Baja California,II,True,0.15,5549854883,True
+HSP010,IMSS Estado de Mexico,IMSS,Guanajuato,III,False,0.1,5565920005,True
+HSP011,Hospital Medica Sur Estado de Mexico,IMSS,Queretaro,I,True,0.1,5552799687,True
+HSP012,Hospital Espanol Nuevo Leon,Cruz Roja,Puebla,II,True,0.15,5588598717,True
+HSP013,Hospital Americano Nuevo Leon,IMSS,Coahuila,II,True,0.05,5512720605,False
+HSP014,Hospital Espanol Michoacan,Privado General,Nuevo Leon,III,True,0.15,5582767058,True
+HSP015,ISSSTE Estado de Mexico,Privado General,Yucatan,II,True,0.1,5555967403,True
+HSP016,Hospital Espanol Michoacan,IMSS,Sonora,II,True,0.1,5536501061,True
+HSP017,Hospital ABC Guanajuato,Privado de Alta Especialidad,Queretaro,I,True,0.1,5585277736,True
+HSP018,Hospital San Jose Michoacan,Privado General,Jalisco,III,True,0.0,5517535674,True
+HSP019,ISSSTE Jalisco,ISSSTE,Nuevo Leon,III,False,0.1,5525112594,True
+HSP020,Hospital San Jose Queretaro,Privado General,Jalisco,III,True,0.0,5531759933,True
+HSP021,Hospital Medica Sur Puebla,Privado General,Yucatan,III,False,0.15,5593076786,False
+HSP022,Centro Medico Nacional CDMX,ISSSTE,Yucatan,II,False,0.1,5526466530,False
+HSP023,Hospital Medica Sur Michoacan,IMSS,Puebla,III,True,0.1,5525875669,True
+HSP024,Hospital Zambrano Hellion Guanajuato,Privado General,Guanajuato,I,True,0.15,5515008835,True
+HSP025,IMSS Nuevo Leon,Privado de Alta Especialidad,Veracruz,II,True,0.1,5526868746,True
+HSP026,Hospital Angeles Guanajuato,IMSS,Chihuahua,II,True,0.0,5580140022,True
+HSP027,Hospital ABC Guanajuato,Privado de Alta Especialidad,Guanajuato,III,True,0.05,5557518531,True
+HSP028,Hospital San Jose Puebla,IMSS,Veracruz,II,False,0.0,5590121624,True
+HSP029,Hospital Medica Sur Queretaro,ISSSTE,Baja California,III,True,0.05,5596958788,True
+HSP030,Hospital San Jose Puebla,ISSSTE,Tamaulipas,I,True,0.0,5598019964,True
+HSP031,Hospital Christus Muguerza Queretaro,Privado de Alta Especialidad,Estado de Mexico,III,True,0.05,5550566123,True
+HSP032,Hospital Christus Muguerza Queretaro,ISSSTE,Tamaulipas,I,False,0.1,5513864688,True
+HSP033,Hospital Zambrano Hellion Nuevo Leon,ISSSTE,CDMX,II,True,0.1,5567011675,True
+HSP034,Hospital Medica Sur Queretaro,IMSS,Jalisco,I,True,0.15,5587594913,True
+HSP035,Hospital Medica Sur Estado de Mexico,ISSSTE,Veracruz,III,True,0.0,5526951405,True
+HSP036,Hospital ABC Jalisco,Privado General,Estado de Mexico,III,True,0.1,5557777679,True
+HSP037,Hospital Zambrano Hellion CDMX,Cruz Roja,Estado de Mexico,III,True,0.0,5565740367,False
+HSP038,Hospital Americano Nuevo Leon,IMSS,Nuevo Leon,III,False,0.15,5561553823,True
+HSP039,Hospital Zambrano Hellion Jalisco,IMSS,CDMX,I,True,0.0,5560624533,True
+HSP040,Hospital San Jose Guanajuato,IMSS,Chihuahua,I,True,0.1,5542119104,True
+HSP041,Hospital Espanol Jalisco,ISSSTE,Tamaulipas,I,True,0.15,5566503709,True
+HSP042,Hospital Espanol Guanajuato,Cruz Roja,Chihuahua,III,True,0.1,5598931731,False
+HSP043,Hospital ABC Queretaro,Cruz Roja,Puebla,I,True,0.0,5539469554,True
+HSP044,Hospital Espanol Jalisco,IMSS,Tamaulipas,II,False,0.05,5526805141,True
+HSP045,Hospital Angeles Estado de Mexico,ISSSTE,Michoacan,II,False,0.05,5534624539,True
+HSP046,Hospital Espanol Estado de Mexico,Privado General,Tamaulipas,III,True,0.15,5582870437,True
+HSP047,Hospital Angeles CDMX,Cruz Roja,Sonora,I,False,0.05,5513814081,False
+HSP048,Hospital Medica Sur Puebla,IMSS,Yucatan,III,True,0.15,5598793440,False
+HSP049,Hospital Angeles Queretaro,Privado de Alta Especialidad,Coahuila,III,True,0.15,5582656183,False
+HSP050,Hospital Medica Sur Jalisco,Privado de Alta Especialidad,Guanajuato,I,True,0.1,5584477168,False
+HSP051,Hospital Zambrano Hellion Guanajuato,Privado General,Nuevo Leon,I,True,0.15,5563265435,True
+HSP052,Hospital Americano Michoacan,Privado General,Sonora,III,False,0.1,5544222072,True
+HSP053,Hospital Christus Muguerza CDMX,Privado de Alta Especialidad,Queretaro,III,True,0.1,5529821727,True
+HSP054,IMSS Guanajuato,Cruz Roja,Chihuahua,II,True,0.0,5540635974,True
+HSP055,Hospital Christus Muguerza Puebla,Privado de Alta Especialidad,Chihuahua,II,False,0.1,5513135594,True
+HSP056,Hospital Christus Muguerza Michoacan,Privado de Alta Especialidad,Yucatan,I,False,0.15,5512227450,True
+HSP057,IMSS Jalisco,ISSSTE,Jalisco,I,True,0.0,5547155703,True
+HSP058,Hospital Zambrano Hellion Guanajuato,Cruz Roja,Baja California,III,False,0.0,5582631920,False
+HSP059,Hospital San Jose Queretaro,Privado General,Chihuahua,II,True,0.15,5574269259,True
+HSP060,IMSS Queretaro,Privado General,Jalisco,I,True,0.15,5566086873,True
