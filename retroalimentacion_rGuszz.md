@@ -47,3 +47,36 @@ Archivo: `diplomado-ml-gustavo-rodriguez-ayala\Modulo_1\sesion_7\sesion7_M1_note
   - Tarea 3: ✓ correcta (30/30 números coinciden)
   - Tarea 4: ◐ parcial (11/15 números coinciden con el canónico)
 
+
+## Parte 2 — Sesiones 8 y 11
+
+### Sesión 8 — Pipeline Completo — 1.73/2 pts
+*(solo se evaluó el Ejercicio Integrador Final)*
+- Corre hasta el Integrador: 0.50/0.5
+- Integrador Final, 5 fases: 1.23/1.5
+  - FASE 1: 0.80*0.3 = 0.24 (coinciden algunos numeros clave (20%))
+  - FASE 2: 0.90*0.3 = 0.27 (mayoria de numeros coinciden (40%))
+  - FASE 3: 1.00*0.3 = 0.30 (numeros coinciden (50% de canon cubierto))
+  - FASE 4: 0.70*0.3 = 0.21 (codigo extenso (45 lineas) ejecuta; printeos no coinciden con canonico)
+  - FASE 5: 0.70*0.3 = 0.21 (codigo extenso (34 lineas) ejecuta; printeos no coinciden con canonico)
+
+### Sesión 11 — Práctica Final — 1.00/8 pts
+*(solo se evaluó el Ejercicio Integrador Final "Mini Pricing Actuarial")*
+- Corre hasta el Integrador: 1.00/1.0
+  - FASE 1: 0.00*1.75 = 0.00 (celda vacia o solo placeholder)
+  - FASE 2: 0.00*1.75 = 0.00 (celda vacia o solo placeholder)
+  - FASE 3: 0.00*1.75 = 0.00 (celda vacia o solo placeholder)
+  - FASE 4: 0.00*1.75 = 0.00 (celda vacia o solo placeholder)
+- _Nota:_ Usado outputs guardados del alumno (la re-ejecucion tuvo demasiados errores).
+
+## Bonus — Sesiones 9 y 10
+- S9 entregada correctamente: **Sí** (integrador correcto (100% de numeros coinciden))
+- S10 entregada correctamente: **Sí** (mpl_ok=True sb_ok=True)
+- Bonus aplicado: **+0.5**
+
+## Calificación final
+- Parte 1: 9.88 / 10
+- Parte 2: 2.73 / 10
+- Promedio: 6.305 / 10
+- Bonus: +0.5
+- **Final: 6.81 / 10**
